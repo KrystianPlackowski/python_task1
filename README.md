@@ -22,3 +22,5 @@ Write a python script `solution.py` that will read a `input.png` file, reduce th
 - ' ' for brightness < 0.3
 - '-' for brightness in [0.3 0.6]
 - '|' for brightness above 0.6
+
+And example input and out is in the files: (input)[.test/meil.png] (output)[.test/meil.txt]
